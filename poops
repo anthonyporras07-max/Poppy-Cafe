@@ -19,7 +19,7 @@ body{
         rgba(0,0,0,.75),
         rgba(0,0,0,.92)
     ),
-    url("haunted-forest.jpg");
+    url("https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=1920&q=80");
 
     background-size:cover;
     background-position:center;
@@ -369,7 +369,7 @@ button:hover{
 </button>
 
 <audio id="themeMusic" loop>
-    <source src="spooky.mp3" type="audio/mpeg">
+    <source src="https://archive.org/download/spooky-music-loop/Spooky%20Music%20Loop.mp3" type="audio/mpeg">
 </audio>
 
 <div id="warning" class="warning"></div>
